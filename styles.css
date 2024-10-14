@@ -156,6 +156,8 @@ font-family:Courier New;
      padding-top:71px;
      color: white;
      text-transform:uppercase;
+resize: none;
+
 }
 
 fieldset{
